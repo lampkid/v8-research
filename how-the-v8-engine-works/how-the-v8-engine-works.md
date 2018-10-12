@@ -7,7 +7,7 @@ category: javascript
 
 ### hidden class
 #### 什么时候会创建hidden class？
-- 属性变更的时候
+- 声明属性、增加属性的时候
 - 多次调用函数时，每次调用传入的参数类型不一致
 
 ### boxing operation
