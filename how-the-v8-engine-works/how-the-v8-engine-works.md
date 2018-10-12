@@ -20,6 +20,7 @@ category: javascript
 ### Compile
 - Full compiler
 - optimizing compiler
+
 > Inline Caches
 > De-optimiztion
 
