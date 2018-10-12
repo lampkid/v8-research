@@ -22,6 +22,7 @@ category: javascript
 - optimizing compiler
 
 > Inline Caches
+
 > De-optimiztion
 
 ### Resources
