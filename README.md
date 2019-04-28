@@ -1,4 +1,5 @@
 # v8-research
+```javascript
 [
   "internal/bootstrap_node",
   "async_hooks",
@@ -119,3 +120,4 @@
   "node-inspect/lib/internal/inspect_client",
   "node-inspect/lib/internal/inspect_repl"
 ]
+```
